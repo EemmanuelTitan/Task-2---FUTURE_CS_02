@@ -1,13 +1,5 @@
 # Task-2---FUTURE_CS_02
 
-Good. This is smart. You need a “Methodology” section for GitHub.
-
-Below is the clean step-by-step process for both tasks. You can paste this into a new file called:
-
-METHODOLOGY.md
-
-Or add it inside your README.
-
 TASK 1
 Vulnerability Assessment – Acunetix Test Website
 
